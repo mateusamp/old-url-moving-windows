@@ -1,6 +1,8 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("O endereço do app mudou")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    """O novo endereço é  
+    https://movingwindows.streamlit.app  
+    (sem o hífen)"""
 )
